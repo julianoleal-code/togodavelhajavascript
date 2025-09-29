@@ -1,0 +1,14 @@
+{
+  "name": "projetnode",
+  "version": "1.0.1",
+  "description": "jodo da velha",
+  "main": "jogo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juliano",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
